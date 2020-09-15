@@ -1,0 +1,27 @@
+{
+    "computeCost.m": [
+        {
+            "operation": "DELETE",
+            "lines": 10,
+            "keyStrokeTimeStamp": "Tue Sep 15 2020 19:23:28",
+            "keyStrokeInfo": "",
+            "position": "12,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Sep 15 2020 19:23:32",
+            "keyStrokeInfo": "",
+            "position": "10,1"
+        }
+    ],
+    "computeCostMulti.m": [
+        {
+            "operation": "DELETE",
+            "lines": 9,
+            "keyStrokeTimeStamp": "Tue Sep 15 2020 19:23:53",
+            "keyStrokeInfo": "",
+            "position": "14,1"
+        }
+    ]
+}
