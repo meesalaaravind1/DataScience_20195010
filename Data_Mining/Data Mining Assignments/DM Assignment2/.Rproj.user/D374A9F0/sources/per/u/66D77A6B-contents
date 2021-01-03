@@ -1,0 +1,9 @@
+data <- read.csv("myfirstdata.csv",header=TRUE)
+
+str(data)
+plot()
+
+plot(data[,1])
+
+
+
